@@ -59,22 +59,22 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "4rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "4.332rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -96,15 +96,15 @@
           "_name": "menu",
           "_anchor": "menu-q",
           "_params": {
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#efefef",
+            "fontSize": "4",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": false
           },
@@ -124,8 +124,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-r\" aria-expanded=\"false\">Biografia</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials4-c\" aria-expanded=\"false\">Cuda</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-g\" aria-expanded=\"false\">Film</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">ZAPISZ SIĘ</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-r\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html#form1-s\">Przyłącz się!</a></li>"
         },
         {
           "_tags": [
@@ -134,10 +134,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             },
             ".mbr-section-text": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000"
             }
           },
           "_anchor": "header2-r",
@@ -153,7 +155,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -267,7 +269,7 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x11253.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x11250.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -327,7 +329,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x11253.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x11250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -386,7 +388,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x11253.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x11250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -470,7 +472,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#f9f9f9",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -478,8 +480,8 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "PRZYŁĄCZ SIĘ!",
+          "subtitle": "Codzienny SMS ze słowem Ojca Pio pozwoli Ci lepiej zrozumieć jego serce.<br>Krótki, ale &nbsp;cytat o kolejnych przymiotach Ojca Pio - niezależnie od miejsca, w którym się znajdujemy.<br>Całkowity koszt usługi to 9 zł + VAT&nbsp;",
           "form": {
             "action": "maja.bilska@gmail.com",
             "alerts": {
@@ -508,31 +510,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Zrobione!</a>"
-        },
-        {
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-u",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "youtube": "https://www.youtube.com/channel/UCxSz6JVYmzVhtkraHWZC7HQ",
-            "facebook": "https://www.facebook.com/YoungTree.eu/",
-            "twitter": "",
-            "google": "",
-            "postToLoad": "3",
-            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x1125.jpg",
-            "bgImageRadio": true,
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#7e9b9f"
-          },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         },
         {
           "_tags": [

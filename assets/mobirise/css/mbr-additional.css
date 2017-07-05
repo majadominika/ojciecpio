@@ -429,11 +429,11 @@ h6,
   color: #000000;
 }
 #menu-q .link {
-  font-size: 0.75rem;
+  font-size: 4rem;
 }
 #menu-q .dropdown-item,
 #menu-q .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 4.332rem;
 }
 #menu-q .link:hover,
 #menu-q .dropdown-item:hover,
@@ -443,19 +443,19 @@ h6,
 }
 #menu-q .link[aria-expanded="true"],
 #menu-q .dropdown-menu {
-  background: #000000;
+  background: #d6d6d6;
 }
 #menu-q .nav-dropdown-sm .link:focus,
 #menu-q .nav-dropdown-sm .link:hover,
 #menu-q .nav-dropdown-sm .dropdown-item:focus,
 #menu-q .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #e7e7e7!important;
 }
 #menu-q .navbar,
 #menu-q .nav-dropdown-sm,
 #menu-q .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-q .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #efefef;
 }
 #menu-q .bg-color.transparent .link {
   color: #000000;
@@ -474,9 +474,11 @@ h6,
 }
 #header2-r .mbr-section-title {
   text-align: center;
+  color: #000000;
 }
 #header2-r .mbr-section-text {
   text-align: left;
+  color: #000000;
 }
 #testimonials4-c .mbr-section-subtitle {
   color: #000000;
