@@ -1,8 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
 
 
 
@@ -474,14 +472,11 @@ h6,
 #menu-q .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header2-2 .mbr-section-title {
+#header2-r .mbr-section-title {
   text-align: center;
-  color: #000000;
-  font-family: 'Oxygen', sans-serif;
 }
-#header2-2 .mbr-section-text {
+#header2-r .mbr-section-text {
   text-align: left;
-  color: #000000;
 }
 #testimonials4-c .mbr-section-subtitle {
   color: #000000;
@@ -503,4 +498,7 @@ h6,
 #msg-box4-g P {
   text-align: center;
   color: #000000;
+}
+#form1-s .form-control-label {
+  color: #232323;
 }
