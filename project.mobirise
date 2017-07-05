@@ -132,7 +132,7 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#000000",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
@@ -185,7 +185,7 @@
               "size": 250
             }
           },
-          "title": "Strona poświęcona &nbsp;świętemu Ojcu Pio",
+          "title": "OJCIEC PIO<br>Święty na każdy dzień",
           "text": "Franciszek (Francesco) Forgione urodził się w Pietrelcinie, w prowincji Benewent, 25 maja 1887r. Dzień później, o godzinie szóstej rano, został ochrzczony w kościele Św. Anny, znajdującym się w pobliżu jego domu. Tak szybki chrzest nie był bezzasadny.....",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://www.opio.waw.pl/patron.php\" data-toolbar=\"-mbrBtnMove\">Czytaj więcej..</a> "
         },
