@@ -473,33 +473,31 @@ h6,
   color: #c0a375!important;
 }
 #header2-r .mbr-section-title {
-  text-align: center;
+  text-align: left;
   color: #000000;
 }
 #header2-r .mbr-section-text {
   text-align: left;
   color: #000000;
 }
-#testimonials4-c .mbr-section-subtitle {
+#msg-box8-v .mbr-section-title,
+#msg-box8-v p {
+  color: #fff;
+}
+#msg-box8-v .mbr-section-title {
   color: #000000;
+  text-align: center;
 }
 #msg-box8-3 .mbr-section-title,
 #msg-box8-3 p {
   color: #fff;
 }
 #msg-box8-3 .mbr-section-title {
-  color: #595959;
+  color: #000000;
 }
 #content2-e DIV {
   color: #000000;
   text-align: center;
-}
-#msg-box4-g H3 {
-  text-align: center;
-}
-#msg-box4-g P {
-  text-align: center;
-  color: #000000;
 }
 #form1-s .form-control-label {
   color: #232323;

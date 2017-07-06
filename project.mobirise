@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "cookiesAlert": "Ta strona używa plików cookies",
@@ -134,7 +134,7 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#000000"
             },
             ".mbr-section-text": {
@@ -185,9 +185,103 @@
               "size": 250
             }
           },
-          "title": "Ojciec Pio<br>Święty na każdy dzień",
+          "title": "SMS czyli krótka myśl<br>od Świętego Ojca Pio",
           "text": "Franciszek (Francesco) Forgione urodził się w Pietrelcinie, w prowincji Benewent, 25 maja 1887r. Dzień później, o godzinie szóstej rano, został ochrzczony w kościele Św. Anny, znajdującym się w pobliżu jego domu. Tak szybki chrzest nie był bezzasadny.....",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Czytaj więc...</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-v",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x1125.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "23 wrzesień <br>Wspomnienie Świętego Ojca Pio",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x11250.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "Litania do świętego Ojca Pio",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content2-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f7f7f7"
+          },
+          "text": "<i style=\"font-size: 1.07rem; line-height: 26px; font-family: Lora, serif;\">Kyrie elejson. Chryste elejson. Kyrie elejson</i><br><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chryste usłysz nas, Chryste wysłuchaj nas!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Ojcze z nieba Boże, zmiłuj się nad nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Synu Odkupicielu świata Boże, zmiłuj się nad nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Duchu Święty Boże, zmiłuj się za nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Święta Trójco, jedyny Boże, zmiłuj się nad nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święta Maryjo, módl się za nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font><i style=\"font-size: 1.07rem; line-height: 26px; font-family: Lora, serif;\">Święty Ojcze Pio, miłośniku Krzyża Chrystusowego,</i></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;módl się za nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, z miłością noszący Rany Jezusa, wydzielające zapach fiołków....</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, ukochany synu naszej Matki, którą wysławiałeś najbardziej wśród stworzeń na niebie i na ziemi...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, mistycznie przeżywający mękę Chrystusa w czasie sprawowania Najświętszej Eucharystii...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, niestrudzony więźniu konfesjonału i powierniku grzeszników...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, wierny przyjacielu potrzebujących...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, niosący pomoc swym duchowym synom i córom...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, wzorze życia duchowego...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, niosący nadzieję pogrążonym w rozpaczy...</i></span></font></div><div><br></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, bezgranicznie ufający w Miłosierdzie i Miłość Bożą...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, z pokorą i miłością znoszący ból i cierpienie charyzmatów...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, pomagający Chrystusowi zbawiać grzeszników...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, kapłanie zawierzenia Bogu...</i></span></font></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\"><br></i></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Święty Ojcze Pio, miłośniku ubóstwa...</i><br></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\"><br></i></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Święty Ojcze Pio, mężnie zwyciężający zakusy złego</i><span style=\"font-size: 1.07rem;\">...</span></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\"><br></i></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Święty Ojcze Pio, niestrudzenie Bogu powierzający wszystkich grzeszników świata...</i><br></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\"><br></i></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Święty Ojcze Pio, trwający na dziękczynieniu po Mszy Świętej...</i><br></div><div><br></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Święty Ojcze Pio, skarbnico duchowych owoców...</i><br></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Baranku Boży, który gładzisz grzechy świata, przepuść nam Panie!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Baranku Boży, który gładzisz grzechy świata, wysłuchaj nas Panie!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Baranku Boży, który gładzisz grzechy świata, zmiłuj się nad nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>K. Módl się za nami, Święty Ojcze Pio,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>W. Abyśmy się stali godnymi uproszonych łask.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Módlmy się: Boże, Ty sprawiłeś, że Święty Ojciec Pio żył w ubóstwie i           pokorze, by w ten sposób upodobnić się do Twojego Syna, Jezusa Chrystusa; spraw, prosimy Cię, abyśmy postępując tą samą drogą, z jego pomocą naśladowali Twojego Syna i zjednoczyli się z Tobą w pełni wesela i miłości. Amen.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Słowa św. Ojca Pio o modlitwie:</i><br></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">«Modlitwa jest najlepszą bronią, jaką posiadamy.</i><br></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Jest kluczem, który otwiera Boże Serce.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Trzeba mówić do Jezusa również sercem, a nie tylko ustami.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Co więcej, w pewnych przypadkach, trzeba mówić</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>do Niego tylko sercem...»</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp;Ojciec Pio uważał, że każdy kto uczestniczy we Mszy św., powinien być pojednany z Jezusem Chrystusem, aby mógł Go przyjąć do swego czystego serca w Komunii św. By serce było czyste, trzeba przystąpić do sakramentu pojednania. Ojciec Pio tym, którzy u niego odbywali spowiedź, często zadawał jako pokutę następującą modlitwę:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">«Przeszłość moją, o Panie, polecam Twemu miłosierdziu.</i><br></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Teraźniejszość moją polecam Twojej miłości.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>A moją przyszłość oddaję w ręce Twojej Opatrzności.»</i></span></font></div>"
         },
         {
           "_tags": [
@@ -219,242 +313,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
-          "_inherit": "testimonials2",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials4",
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "testimonial": [
-            {
-              "text": "<span style=\"font-style: normal;\">Za pierwszy z nich uznano przypadek Consiglii De Martino, 45-letniej wówczas mieszkanki Salerno. Była zdrowa, mocnej budowy, urodziła troje dzieci i prawie nigdy nie chorowała. 1 listopada 1995 r. szykowała się do pójścia wraz z rodziną na Mszę św., gdy nagle poczuła silny ból, połączony z dusznościami. W szpitalu, do którego niezwłocznie się udała, stwierdzono wyciek limfy z kanału piersiowego i konieczność szybkiej interwencji chirurgicznej. Czekając na operację, zaczęła się gorąco modlić do Ojca Pio, którego od dawna była wielką czcicielką. W pewnej chwili poprosiła go w myślach: \"Ty bądź moim chirurgiem i zoperuj mnie!\".</span><div><span style=\"font-style: normal;\">Po kilku godzinach, oczekując operacji i rozmawiając z bratową, poczuła, że ktoś przecina jej szyję, otwiera gardło, usuwa rozlany płyn i zaszywa to miejsce, a wszystko to bezboleśnie. Wszelkie bóle i inne objawy choroby ustąpiły bez śladu, lekarze zaś nie potrafili wyjaśnić tego zjawiska. Kobieta była przekonana, że dokonało się to za sprawą włoskiego kapucyna nie tylko dlatego, że modliła się do niego, a on ją wysłuchał, ale także z tego powodu, że po całym zdarzeniu poczuła, jak sama mówiła, intensywny zapach kwiatów, co towarzyszyło cudom dokonanym przez Ojca Pio. 6 listopada, a więc w niespełna tydzień po wystąpieniu objawów chorobowych, została - po szczegółowych badaniach lekarskich - wypisana ze szpitala.</span></div><div><span style=\"font-style: normal;\">Całe zdarzenie uznano oficjalnie za cud 22 czerwca 1998 r., co otworzyło już bezpośrednio drogę do wyniesienia włoskiego zakonnika na ołtarze. Na posiedzeniu Kongregacji Spraw Kanonizacyjnych 21 grudnia w tym samym roku, w obecności Jana Pawła II, zatwierdzono dekret o uznaniu cudu, a 2 maja następnego roku odbyła się beatyfikacja włoskiego stygmatyka.&nbsp;</span></div>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
-            },
-            {
-              "text": "W kolejnym przypadku w cudowny sposób uzyskał zdrowie 7-letni Włoch, Matteo Pio Colella, syn lekarza pracującego w zespole szpitalnym w Dom Ulgi w Cierpieniu w San Giovanni Rotondo. 20 stycznia 2000 r. przed południem chłopiec dostał w szkole gorączki z dreszczami, opadł z sił, miał silny ból głowy i wymioty. Po południu tego samego dnia trafił do szpitala, w którym pracował jego ojciec. Stan był bardzo poważny: ostre zapalenie opon mózgowych, połączone z przytępieniem percepcji, rozległymi wybroczynami z tendencją do martwicy i wysoką gorączką.<div>Mimo leczenia, stan zdrowia małego pacjenta gwałtownie się pogorszył. Następnej nocy przeniesiono go na oddział reanimacji, by mógł oddychać, gdyż tętno zanikało z powodu uszkodzenia mięśnia sercowego.</div><div>Rodzice małego Mateusza Piusa (to drugie imię dostał właśnie dla uczczenia założyciela szpitala) oraz inne osoby zaczęli modlić się o jego uzdrowienie za wstawiennictwem Błogosławionego, odmawiano Różaniec. Już nazajutrz rano stan zdrowia chłopca nagle się poprawił, chociaż utrzymywała się jeszcze ciężka niewydolność oddechowa. Poprawa postępowała jednak szybko i 26 lutego dziecko zostało wypisane ze szpitala. W czerwcu zbadali je dokładnie lekarze, potwierdzając fakt cudownego wyzdrowienia. 20 grudnia 2001 r. Kongregacja Spraw Kanonizacyjnych na posiedzeniu w obecności Ojca Świętego zatwierdziła dekret w tej sprawie.</div><div>Podobnie jak wcześniejsza beatyfikacja, również kanonizacja wywołała wielką radość wśród czcicieli Ojca Pio. Na uroczystość przybyli pielgrzymi z całego świata. Ojciec Pio powiedział kiedyś o sobie: \" Po śmierci zrobię więcej hałasu niż za życia\".</div>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials4-c",
-          "_params": {
-            "count": "2",
-            "paddingTop": 3,
-            "paddingBottom": "4",
-            "showImages": false,
-            "showName": false,
-            "showBio": false,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x11250.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true
-          },
-          "title": "Cuda Ojca Pio",
-          "subtitle": "Aby oficjalnie ogłosić kogoś błogosławionym, a później ewentualnie świętym, Kościół wymaga stwierdzenia przynajmniej jednego cudu za jego wstawiennictwem, przy czym muszą to być dwa różne zdarzenia w każdym procesie (oddzielnie dla beatyfikacji i oddzielnie dla kanonizacji) . W przypadku Ojca Pio niewytłumaczalne z naukowego punktu widzenia uzdrowienia dokonywały się często jeszcze za jego życia, pod wpływem jego modlitw lub w wyniku modlitw i aktów pokuty, jakie polecał on swym penitentom. Ale potrzebny był cud po śmierci Ojca Pio."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-n",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bmzktkpturbxy9mmtm0odixzjbmntmyzdzjnjk5n2eyy2i2ywzjytayoc5qcgeslqmwzqeczqmpzqhgkwxnaydnaci-2000x1125.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.1",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "&nbsp;Modlitwa jest kluczem do przebaczenia, ale nie módlcie się ze smutkiem, nie zanudzajcie naszego Pana, On jest Bogiem radości.<br> Módlcie się z uśmiechem.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#595959"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x11250.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#ffffff",
-            "showTitle": true,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "Litania do świętego Ojca Pio",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_styles": {
-            "DIV": {
-              "color": "#000000",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content2-e",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#f7f7f7"
-          },
-          "text": "<i style=\"font-size: 1.07rem; line-height: 26px; font-family: Lora, serif;\">Kyrie elejson. Chryste elejson. Kyrie elejson</i><br><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chryste usłysz nas, Chryste wysłuchaj nas!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Ojcze z nieba Boże, zmiłuj się nad nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Synu Odkupicielu świata Boże, zmiłuj się nad nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Duchu Święty Boże, zmiłuj się za nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Święta Trójco, jedyny Boże, zmiłuj się nad nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święta Maryjo, módl się za nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font><i style=\"font-size: 1.07rem; line-height: 26px; font-family: Lora, serif;\">Święty Ojcze Pio, miłośniku Krzyża Chrystusowego,</i></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;módl się za nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, z miłością noszący Rany Jezusa, wydzielające zapach fiołków....</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, ukochany synu naszej Matki, którą wysławiałeś najbardziej wśród stworzeń na niebie i na ziemi...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, mistycznie przeżywający mękę Chrystusa w czasie sprawowania Najświętszej Eucharystii...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, niestrudzony więźniu konfesjonału i powierniku grzeszników...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, wierny przyjacielu potrzebujących...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, niosący pomoc swym duchowym synom i córom...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, wzorze życia duchowego...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, niosący nadzieję pogrążonym w rozpaczy...</i></span></font></div><div><br></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, bezgranicznie ufający w Miłosierdzie i Miłość Bożą...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, z pokorą i miłością znoszący ból i cierpienie charyzmatów...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, pomagający Chrystusowi zbawiać grzeszników...</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Święty Ojcze Pio, kapłanie zawierzenia Bogu...</i></span></font></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\"><br></i></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Święty Ojcze Pio, miłośniku ubóstwa...</i><br></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\"><br></i></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Święty Ojcze Pio, mężnie zwyciężający zakusy złego</i><span style=\"font-size: 1.07rem;\">...</span></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\"><br></i></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Święty Ojcze Pio, niestrudzenie Bogu powierzający wszystkich grzeszników świata...</i><br></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\"><br></i></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Święty Ojcze Pio, trwający na dziękczynieniu po Mszy Świętej...</i><br></div><div><br></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Święty Ojcze Pio, skarbnico duchowych owoców...</i><br></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Baranku Boży, który gładzisz grzechy świata, przepuść nam Panie!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Baranku Boży, który gładzisz grzechy świata, wysłuchaj nas Panie!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Baranku Boży, który gładzisz grzechy świata, zmiłuj się nad nami!</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>K. Módl się za nami, Święty Ojcze Pio,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>W. Abyśmy się stali godnymi uproszonych łask.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Módlmy się: Boże, Ty sprawiłeś, że Święty Ojciec Pio żył w ubóstwie i           pokorze, by w ten sposób upodobnić się do Twojego Syna, Jezusa Chrystusa; spraw, prosimy Cię, abyśmy postępując tą samą drogą, z jego pomocą naśladowali Twojego Syna i zjednoczyli się z Tobą w pełni wesela i miłości. Amen.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">Słowa św. Ojca Pio o modlitwie:</i><br></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">«Modlitwa jest najlepszą bronią, jaką posiadamy.</i><br></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Jest kluczem, który otwiera Boże Serce.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Trzeba mówić do Jezusa również sercem, a nie tylko ustami.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Co więcej, w pewnych przypadkach, trzeba mówić</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>do Niego tylko sercem...»</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp; &nbsp;Ojciec Pio uważał, że każdy kto uczestniczy we Mszy św., powinien być pojednany z Jezusem Chrystusem, aby mógł Go przyjąć do swego czystego serca w Komunii św. By serce było czyste, trzeba przystąpić do sakramentu pojednania. Ojciec Pio tym, którzy u niego odbywali spowiedź, często zadawał jako pokutę następującą modlitwę:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div><div><i style=\"line-height: 26px; font-family: Lora, serif; font-size: 1.07rem;\">«Przeszłość moją, o Panie, polecam Twemu miłosierdziu.</i><br></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Teraźniejszość moją polecam Twojej miłości.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>A moją przyszłość oddaję w ręce Twojej Opatrzności.»</i></span></font></div>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "center",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "msg-box4-g",
-          "_params": {
-            "imageSize": "70",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cacc1e-89283df9ec774c038aef4e9732188a8fmv2-d-4000-2250-s-2000x11250.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=jYeIhThS3a4",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": ",,Ojciec Pio\"",
-          "text": "<p>Cały film z lektorerm..</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-o",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/matka-boa-fatimska-uzdrowia-ojca-pio-2000x1120.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Kochajcie Maryję i czyńcie wszystko, co możecie, aby Ją ludzie kochali. Odmawiajcie ku Jej czci różaniec. Czyńcie to zawsze (…). Przylgnijcie do różańca. Okazujcie wdzięczność Maryi, bo to ona dała nam Jezusa. Modlitwa różańcowa jest syntezą naszej wiary, podporą naszej nadziei, żarem naszej miłości.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -481,7 +339,7 @@
             "showSubTitle": true
           },
           "title": "PRZYŁĄCZ SIĘ!",
-          "subtitle": "Codzienny SMS ze słowem Ojca Pio pozwoli Ci lepiej zrozumieć jego serce.<br>Krótki, ale &nbsp;cytat o kolejnych przymiotach Ojca Pio - niezależnie od miejsca, w którym się znajdujemy.<br>Całkowity koszt usługi to 9 zł + VAT&nbsp;",
+          "subtitle": "Codzienny SMS z myślą Ojca Pio pozwoli Ci lepiej zrozumieć jego serce.<br>Krótki, ale regularny cytat natchnie Cię - niezależnie od miejsca, w którym się znajdziesz.<br>Całkowity koszt usługi to 9 zł + VAT&nbsp;",
           "form": {
             "action": "maja.bilska@gmail.com",
             "alerts": {
